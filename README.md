@@ -4,10 +4,10 @@
 ![Mrs. Maher, coding, creating, collaborating](you.gif)
 
 ## Hello Everyone
-I am a CS Enthusiast from KY. I am excited to bring CS to all my students, old and new. I hope you unjoy exploring with me!
+I am a CS Enthusiast from KY. I am excited to bring CS to all my students, old and new. I hope you enjoy exploring with me!
 
 ## Languages
-These courses focus on:
+I teach a variety of CS courses. These courses focus on:
 - HTML/CSS/Javascript
 - Python
 - Java
